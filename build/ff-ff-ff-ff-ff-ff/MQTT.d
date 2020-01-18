@@ -1,0 +1,22 @@
+D:\KBIDEV6\boards\kbide-senses-weizen\build\ff-ff-ff-ff-ff-ff\MQTT.o: \
+ D:\KBIDEV6\platforms\arduino-esp32\include\MQTT.cpp \
+ D:\KBIDEV6\platforms\arduino-esp32\include\MQTT.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/stdint.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/machine/_default_types.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/sys/features.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/sys/_intsup.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/pgmspace.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/Client.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/Print.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/WString.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/stdlib.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/machine/stdlib.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/alloca.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/string.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/sys/string.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/Printable.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/Stream.h \
+ D:\KBIDEV6\platforms\arduino-esp32\sdk\include\newlib/inttypes.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/IPAddress.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/WString.h \
+ D:\KBIDEV6\platforms\arduino-esp32\lib\include/Printable.h
